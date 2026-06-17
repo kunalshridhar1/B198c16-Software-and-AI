@@ -96,6 +96,13 @@ database/
 
 ---
 
-## Author
+# License
 
-Student Artificial Intelligence Project
+    This project is licensed under the MIT License.
+
+
+👨‍💻 Author
+Kunal Shridhar
+📧 shridharkunal2005@gmail.com
+🔗 GitHub: https://github.com/kunalshridhar1
+
