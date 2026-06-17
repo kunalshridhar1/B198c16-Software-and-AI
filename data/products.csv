@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,Price,OriginalPrice,Brand,Description,Rating,ProductURL,Retailer
+1,Wireless Mouse,Electronics,18,25,Logitech,Wireless optical mouse for laptops and desktops,4.5,https://www.amazon.de,Amazon Germany
+2,Gaming Keyboard,Electronics,45,60,Redragon,RGB mechanical gaming keyboard,4.6,https://www.mediamarkt.de,MediaMarkt
+3,Smart Watch,Electronics,89,120,Noise,Fitness smartwatch with heart rate monitor,4.4,https://www.ebay.de,eBay Germany
+4,Bluetooth Speaker,Electronics,35,50,Boat,Portable speaker with deep bass sound,4.3,https://www.amazon.de,Amazon Germany
+5,USB Hub,Electronics,15,22,Portronics,Multiport USB hub for laptops,4.2,https://www.mediamarkt.de,MediaMarkt
+6,Laptop Stand,Electronics,25,35,AmazonBasics,Adjustable aluminum laptop stand,4.5,https://www.ebay.de,eBay Germany
+7,Power Bank,Electronics,28,40,Mi,10000mAh fast charging power bank,4.4,https://www.amazon.de,Amazon Germany
+8,Wireless Earbuds,Electronics,55,70,Boat,True wireless earbuds with noise cancellation,4.5,https://www.mediamarkt.de,MediaMarkt
+9,Monitor 24 Inch,Electronics,180,220,LG,Full HD IPS monitor for work and gaming,4.7,https://www.ebay.de,eBay Germany
+10,Webcam HD,Electronics,32,45,Logitech,1080p webcam for online meetings,4.4,https://www.amazon.de,Amazon Germany
+11,Running Shoes,Sports,55,75,Adidas,Lightweight running shoes for daily workouts,4.7,https://www.ebay.de,eBay Germany
+12,Gym Gloves,Sports,10,15,Nike,Comfortable gym gloves with grip support,4.2,https://www.mediamarkt.de,MediaMarkt
+13,Yoga Mat,Sports,18,25,Boldfit,Anti-slip yoga mat for fitness exercises,4.5,https://www.amazon.de,Amazon Germany
+14,Football,Sports,15,22,Nivia,Professional training football,4.3,https://www.mediamarkt.de,MediaMarkt
+15,Cricket Bat,Sports,45,60,SG,Premium English willow cricket bat,4.6,https://www.ebay.de,eBay Germany
+16,Dumbbell Set,Sports,35,50,Fitkit,Adjustable dumbbell set for home workouts,4.4,https://www.amazon.de,Amazon Germany
+17,Skipping Rope,Sports,6,10,Cockatoo,Speed rope for cardio workouts,4.1,https://www.ebay.de,eBay Germany
+18,Tennis Racket,Sports,65,80,Head,Professional tennis racket,4.5,https://www.mediamarkt.de,MediaMarkt
+19,Sports Bottle,Sports,8,12,Cello,Insulated water bottle for athletes,4.3,https://www.amazon.de,Amazon Germany
+20,Cycling Helmet,Sports,28,40,Leader,Safety helmet for cycling activities,4.4,https://www.mediamarkt.de,MediaMarkt
+21,Cotton T-Shirt,Fashion,12,18,Levis,Comfortable cotton casual t-shirt,4.3,https://www.ebay.de,eBay Germany
+22,Denim Jeans,Fashion,28,40,Levis,Slim fit blue denim jeans,4.5,https://www.amazon.de,Amazon Germany
+23,Hoodie,Fashion,25,35,HM,Warm casual hoodie for winter wear,4.4,https://www.ebay.de,eBay Germany
+24,Sneakers,Fashion,45,60,Puma,Stylish sneakers for everyday use,4.6,https://www.amazon.de,Amazon Germany
+25,Formal Shirt,Fashion,18,25,Van Heusen,Premium formal office shirt,4.5,https://www.ebay.de,eBay Germany
+26,Leather Belt,Fashion,15,22,Woodland,Genuine leather belt for men,4.3,https://www.mediamarkt.de,MediaMarkt
+27,Analog Watch,Fashion,35,50,Timex,Classic analog wrist watch,4.4,https://www.amazon.de,Amazon Germany
+28,Sunglasses,Fashion,18,25,Fastrack,UV protected stylish sunglasses,4.2,https://www.mediamarkt.de,MediaMarkt
+29,Backpack,Fashion,28,40,Wildcraft,Water resistant travel backpack,4.5,https://www.ebay.de,eBay Germany
+30,Wallet,Fashion,15,22,Tommy Hilfiger,Premium leather wallet,4.4,https://www.amazon.de,Amazon Germany
+31,Cookware Set,Home,55,75,Prestige,Non-stick cookware set for kitchen,4.6,https://www.mediamarkt.de,MediaMarkt
+32,Electric Kettle,Home,25,35,Philips,Fast boiling electric kettle,4.5,https://www.ebay.de,eBay Germany
+33,Vacuum Cleaner,Home,89,120,Eureka Forbes,Compact vacuum cleaner for home,4.4,https://www.amazon.de,Amazon Germany
+34,Air Fryer,Home,110,140,Philips,Healthy oil-free cooking appliance,4.6,https://www.mediamarkt.de,MediaMarkt
+35,Mixer Grinder,Home,65,80,Bajaj,Multi-purpose mixer grinder,4.4,https://www.ebay.de,eBay Germany
+36,Water Bottle,Home,8,12,Milton,Stainless steel water bottle,4.2,https://www.amazon.de,Amazon Germany
+37,Bedsheet Set,Home,18,25,Bombay Dyeing,Cotton king size bedsheet set,4.3,https://www.mediamarkt.de,MediaMarkt
+38,Desk Lamp,Home,15,22,Wipro,LED study lamp with brightness control,4.4,https://www.ebay.de,eBay Germany
+39,Storage Organizer,Home,12,18,Home Centre,Multi-purpose storage organizer,4.2,https://www.amazon.de,Amazon Germany
+40,Wall Clock,Home,10,15,Ajanta,Modern decorative wall clock,4.1,https://www.ebay.de,eBay Germany
