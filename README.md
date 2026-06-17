@@ -86,16 +86,6 @@ database/
 
 ---
 
-## Future Improvements
-
-* Collaborative Filtering
-* User Authentication
-* Real-Time Product APIs
-* Advanced Recommendation Models
-* Cloud Deployment
-
----
-
 # License
 
     This project is licensed under the MIT License.
